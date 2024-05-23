@@ -18,6 +18,8 @@ def sort_list(items, ascending=True):
 
 
 def remove_duplicates_from_list(items):
+
+print "Trabajo de git en equipo" 
     return list(set(items))
 
 
